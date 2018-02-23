@@ -1,4 +1,5 @@
 # Color Guessing Game
+Visit at: https://guessrgb.herokuapp.com/
 
 ## Introduction
   This project serves as a RGB-recognizing game for user to train their familiarity with RGB values. There are two modes for user to choose. Beginner can choose easy mode while others with more confidence can choose hard mode. This project is created by using various front end web development tools like HTML, CSS and Javascript. 
